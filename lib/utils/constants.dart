@@ -1,0 +1,4 @@
+const double balance = 1000000;
+
+const String stripePublishableKey = "pk_test_51NzDEFCc3WjSVuxNjLogkCabApe8TeCZszji1omiHCdvoIPr79fL7tN5KSIOurpAzbW4BoGNbY3qIrlMHFfFtPxn00FXjYGgV3";
+const String stripeSecretKey = "sk_test_51NzDEFCc3WjSVuxNWsmxVP0QsXD1PGx68KQAlMA17A4rp1oDdq4Gl5gz9WiIdassH9oXA0SNMs7VsKKisNLM0WFk00yIgS4jGg";
